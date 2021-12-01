@@ -2,6 +2,7 @@
 # Author        : Craig Richards
 # Created       : 09th January 2012
 # Last Modified : 22nd October 2015
+# another Comment
 # Version       : 1.0.1
 # Modifications : Added exceptions
 #               : 1.0.1 Tidy up comments and syntax
@@ -22,3 +23,4 @@ try:
         print(MESSAGE)
 except Exception as e:
     print(e)
+    
