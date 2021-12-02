@@ -13,6 +13,7 @@
 
 import platform as pl
 
+
 profile = [
     'architecture',
     'linux_distribution',
